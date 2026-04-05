@@ -90,12 +90,12 @@ Mi metodología combina la estabilidad de la infraestructura tradicional con la 
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0ea5e9,100:020617&height=100&section=footer"/>
-</p>
-
 <p align="center">
   <sub><b>Driven by Innovation | Built for Excellence</b></sub><br>
   <sub>© 2026 Gherson Torres</sub>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0ea5e9,100:020617&height=100&section=footer"/>
+</p>
+
+
